@@ -1,0 +1,274 @@
+[
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_tool_fill.png.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\drawable-hdpi\\ic_tool_fill.png"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_tool_brush.png.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\drawable-xhdpi\\ic_tool_brush.png"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_tool_redo.png.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\drawable-xxhdpi\\ic_tool_redo.png"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_tool_redo.xml.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\drawable-anydpi\\ic_tool_redo.xml"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_saved_list.png.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\drawable-xxhdpi\\ic_saved_list.png"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\drawable_confirmbutton.xml.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\drawable\\confirmbutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_tool_redo.png.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\drawable-mdpi\\ic_tool_redo.png"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_tool_undo.png.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\drawable-hdpi\\ic_tool_undo.png"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_tool_erase.png.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\drawable-mdpi\\ic_tool_erase.png"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\layout_recycler_holder.xml.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\layout\\recycler_holder.xml"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_tool_erase.png.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\drawable-xxhdpi\\ic_tool_erase.png"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_tool_brush.png.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\drawable-hdpi\\ic_tool_brush.png"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_tool_redo.png.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\drawable-xhdpi\\ic_tool_redo.png"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\layout_popup_tool_options.xml.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\layout\\popup_tool_options.xml"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_tool_brush.png.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\drawable-mdpi\\ic_tool_brush.png"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_saved_list.png.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\drawable-hdpi\\ic_saved_list.png"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\drawable_gradient.xml.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\drawable\\gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\layout_recycler_saved_files.xml.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\layout\\recycler_saved_files.xml"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_saved_list.xml.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\drawable-anydpi\\ic_saved_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_tool_save.xml.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\drawable-anydpi\\ic_tool_save.xml"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\layout_color_gradient_picker.xml.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\layout\\color_gradient_picker.xml"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_tool_eyedrop.png.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\drawable-mdpi\\ic_tool_eyedrop.png"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_tool_eyedrop.png.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\drawable-xxhdpi\\ic_tool_eyedrop.png"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_tool_undo.png.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\drawable-xhdpi\\ic_tool_undo.png"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_tool_save.png.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\drawable-xhdpi\\ic_tool_save.png"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_tool_eyedrop.png.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\drawable-hdpi\\ic_tool_eyedrop.png"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\layout_recycler_saved_files_list.xml.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\layout\\recycler_saved_files_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_tool_undo.xml.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\drawable-anydpi\\ic_tool_undo.xml"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_tool_fill.png.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\drawable-xxhdpi\\ic_tool_fill.png"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_tool_eyedrop.png.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\drawable-xhdpi\\ic_tool_eyedrop.png"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_tool_fill.png.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\drawable-mdpi\\ic_tool_fill.png"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_tool_erase.png.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\drawable-xhdpi\\ic_tool_erase.png"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_tool_fill.xml.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\drawable-anydpi\\ic_tool_fill.xml"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_tool_save.png.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\drawable-hdpi\\ic_tool_save.png"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_saved_list.png.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\drawable-xhdpi\\ic_saved_list.png"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_tool_fill.png.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\drawable-xhdpi\\ic_tool_fill.png"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_tool_erase.xml.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\drawable-anydpi\\ic_tool_erase.xml"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_saved_list.png.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\drawable-mdpi\\ic_saved_list.png"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_tool_undo.png.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\drawable-xxhdpi\\ic_tool_undo.png"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_tool_brush.xml.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\drawable-anydpi\\ic_tool_brush.xml"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_tool_erase.png.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\drawable-hdpi\\ic_tool_erase.png"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_tool_undo.png.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\drawable-mdpi\\ic_tool_undo.png"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_tool_eyedrop.xml.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\drawable-anydpi\\ic_tool_eyedrop.xml"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_tool_brush.png.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\drawable-xxhdpi\\ic_tool_brush.png"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\layout_user_colors_popup.xml.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\layout\\user_colors_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_tool_save.png.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\drawable-xxhdpi\\ic_tool_save.png"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_tool_redo.png.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\drawable-hdpi\\ic_tool_redo.png"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_tool_save.png.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\drawable-mdpi\\ic_tool_save.png"
+    },
+    {
+        "merged": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\visha\\AndroidStudioProjects\\Chixel\\chixel\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]

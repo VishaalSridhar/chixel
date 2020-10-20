@@ -1,0 +1,2 @@
+include ':chixel'
+rootProject.name='Chixel'
